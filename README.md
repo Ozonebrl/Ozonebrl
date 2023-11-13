@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ozonebrl
-- 🌱 I’m currently learning ... Software Engineering, database , Cloud Computing
+- 🌱 I’m currently learning ... Software Engineering.
 
 - 📫 How to reach me .. ozonebrl7@gmail.com
 
